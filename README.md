@@ -1,2 +1,2 @@
-# portfolio_
-HTML,CSS,JS Profolio Template
+# Samir Pokhrel
+Sleek, Dark Theme - HTML,CSS,JS Profolio Personal Portfolio Template
